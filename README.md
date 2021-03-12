@@ -1,2 +1,2 @@
 # Java-TestEncrypter
- Test encrypter created in Java
+ Very simple encrypter created in Java
